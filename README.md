@@ -7,7 +7,7 @@ Hortonworks-Tutorial-for-Beginners
 
  *This repo for beginners and fully qualified hortonworks learning process.*
 
-Hortonworks is a data analysis tool for big companies and huge data. This repo helps you to understand "What is Hortonworks?" and "How can it be use?". "Hortonworks-Tutorial-for-Beginners" is a tutorial series which makes you fully knowledged hortonworks user with deep information. 
+[Hortonworks](http://hortonworks.com/) is a data analysis tool for big companies and huge data. This repo helps you to understand "What is Hortonworks?" and "How can it be use?". "Hortonworks-Tutorial-for-Beginners" is a tutorial series which makes you fully knowledged hortonworks user with deep information. 
 
 This repo content will be like,
 
